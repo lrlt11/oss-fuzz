@@ -1,4 +1,4 @@
-homepage: "https://gitlab.gnome.org/GNOME/libxml2"
+homepage: "https://github.com/lrlt11/libxml2"
 language: c++
 primary_contact: "wellnhofer@aevum.de"
 vendor_ccs:
